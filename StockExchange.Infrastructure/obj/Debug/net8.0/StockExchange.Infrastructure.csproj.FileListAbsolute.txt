@@ -1,0 +1,17 @@
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Infrastructure\obj\Debug\net8.0\StockExchange.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Infrastructure\obj\Debug\net8.0\StockExchange.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Infrastructure\obj\Debug\net8.0\StockExchange.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Infrastructure\obj\Debug\net8.0\StockExchange.Infrastructure.AssemblyInfo.cs
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Infrastructure\obj\Debug\net8.0\StockExchange.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Infrastructure\bin\Debug\net8.0\StockExchange.Infrastructure.deps.json
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Infrastructure\bin\Debug\net8.0\StockExchange.Infrastructure.dll
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Infrastructure\bin\Debug\net8.0\StockExchange.Infrastructure.pdb
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Infrastructure\bin\Debug\net8.0\StockExchange.Application.dll
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Infrastructure\bin\Debug\net8.0\StockExchange.Core.dll
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Infrastructure\bin\Debug\net8.0\StockExchange.Application.pdb
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Infrastructure\bin\Debug\net8.0\StockExchange.Core.pdb
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Infrastructure\obj\Debug\net8.0\StockExc.958267B4.Up2Date
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Infrastructure\obj\Debug\net8.0\StockExchange.Infrastructure.dll
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Infrastructure\obj\Debug\net8.0\refint\StockExchange.Infrastructure.dll
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Infrastructure\obj\Debug\net8.0\StockExchange.Infrastructure.pdb
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Infrastructure\obj\Debug\net8.0\ref\StockExchange.Infrastructure.dll

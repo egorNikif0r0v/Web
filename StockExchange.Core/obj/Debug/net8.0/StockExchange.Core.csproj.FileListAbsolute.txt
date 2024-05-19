@@ -1,0 +1,11 @@
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Core\bin\Debug\net8.0\StockExchange.Core.deps.json
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Core\bin\Debug\net8.0\StockExchange.Core.dll
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Core\bin\Debug\net8.0\StockExchange.Core.pdb
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Core\obj\Debug\net8.0\StockExchange.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Core\obj\Debug\net8.0\StockExchange.Core.AssemblyInfoInputs.cache
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Core\obj\Debug\net8.0\StockExchange.Core.AssemblyInfo.cs
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Core\obj\Debug\net8.0\StockExchange.Core.csproj.CoreCompileInputs.cache
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Core\obj\Debug\net8.0\StockExchange.Core.dll
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Core\obj\Debug\net8.0\refint\StockExchange.Core.dll
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Core\obj\Debug\net8.0\StockExchange.Core.pdb
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Core\obj\Debug\net8.0\ref\StockExchange.Core.dll

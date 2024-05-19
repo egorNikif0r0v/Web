@@ -1,0 +1,17 @@
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.DataAccess\bin\Debug\net8.0\StockExchange.DataAccess.deps.json
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.DataAccess\bin\Debug\net8.0\StockExchange.DataAccess.runtimeconfig.json
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.DataAccess\bin\Debug\net8.0\StockExchange.DataAccess.dll
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.DataAccess\bin\Debug\net8.0\StockExchange.DataAccess.pdb
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.DataAccess\bin\Debug\net8.0\StockExchange.Core.dll
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.DataAccess\bin\Debug\net8.0\StockExchange.Core.pdb
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.DataAccess\obj\Debug\net8.0\StockExchange.DataAccess.csproj.AssemblyReference.cache
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.DataAccess\obj\Debug\net8.0\StockExchange.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.DataAccess\obj\Debug\net8.0\StockExchange.DataAccess.AssemblyInfoInputs.cache
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.DataAccess\obj\Debug\net8.0\StockExchange.DataAccess.AssemblyInfo.cs
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.DataAccess\obj\Debug\net8.0\StockExchange.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.DataAccess\obj\Debug\net8.0\StockExc.66CE1F7D.Up2Date
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.DataAccess\obj\Debug\net8.0\StockExchange.DataAccess.dll
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.DataAccess\obj\Debug\net8.0\refint\StockExchange.DataAccess.dll
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.DataAccess\obj\Debug\net8.0\StockExchange.DataAccess.pdb
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.DataAccess\obj\Debug\net8.0\StockExchange.DataAccess.genruntimeconfig.cache
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.DataAccess\obj\Debug\net8.0\ref\StockExchange.DataAccess.dll

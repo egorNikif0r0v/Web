@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "M82QjVS8MB6zsblLj9nDbioMhRW3Xd7wEtLbz8wDm3s=",
+  "Source": "StockExchange.API",
+  "BasePath": "_content/StockExchange.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,15 @@
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Application\bin\Debug\net8.0\StockExchange.Application.deps.json
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Application\bin\Debug\net8.0\StockExchange.Application.dll
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Application\bin\Debug\net8.0\StockExchange.Application.pdb
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Application\bin\Debug\net8.0\StockExchange.Core.dll
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Application\bin\Debug\net8.0\StockExchange.Core.pdb
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Application\obj\Debug\net8.0\StockExchange.Application.csproj.AssemblyReference.cache
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Application\obj\Debug\net8.0\StockExchange.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Application\obj\Debug\net8.0\StockExchange.Application.AssemblyInfoInputs.cache
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Application\obj\Debug\net8.0\StockExchange.Application.AssemblyInfo.cs
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Application\obj\Debug\net8.0\StockExchange.Application.csproj.CoreCompileInputs.cache
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Application\obj\Debug\net8.0\StockExc.6476DF67.Up2Date
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Application\obj\Debug\net8.0\StockExchange.Application.dll
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Application\obj\Debug\net8.0\refint\StockExchange.Application.dll
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Application\obj\Debug\net8.0\StockExchange.Application.pdb
+C:\Users\egor\source\repos\StockExchange.API\StockExchange.Application\obj\Debug\net8.0\ref\StockExchange.Application.dll
